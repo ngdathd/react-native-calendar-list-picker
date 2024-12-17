@@ -7,6 +7,9 @@ React Native Calendar List Picker Components
 ```sh
 npm install react-native-calendar-list-picker
 ```
+```sh
+yarn add react-native-calendar-list-picker
+```
 
 ## Usage
 
